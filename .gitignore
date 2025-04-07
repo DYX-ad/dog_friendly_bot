@@ -6,6 +6,6 @@ __pycache__/
 
 .venv/
 
-requirements.txt
-
 app.log
+
+confic.example.py
